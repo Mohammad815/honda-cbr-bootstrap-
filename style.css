@@ -3,6 +3,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.btn-common{
+    background: #E76F51;
+
+}
 header{
     background: #264653;
 }
@@ -28,8 +32,9 @@ header{
     width: 150px;
     height: 150px;
 }
-.happy-font{
-    
+.icon-star{
+    color: #E76F51;
+
 }
 /* frequently ask question part  */
 .frequently-img{
