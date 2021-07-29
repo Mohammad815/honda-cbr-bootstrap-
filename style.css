@@ -4,3 +4,8 @@ header{
 .feature p{
     color: #ED5731;
 }
+.feature-img{
+    width: 285px;
+    height: 240;
+    filter: grayscale(100%);
+}
