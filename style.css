@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 header{
     background: #264653;
 }
@@ -18,3 +19,11 @@ header{
     outline-color: #ED5731;
 
 } */
+/* happy section part  */
+.happy-img{
+    width: 150px;
+    height: 150px;
+}
+.happy-font{
+    font-family: 'Poppins', sans-serif;
+}
