@@ -9,3 +9,7 @@ header{
     height: 240;
     filter: grayscale(100%);
 }
+/* Latest Bikes section  */
+.btn1{
+    background-color:#ED5731 ;
+}
